@@ -1,0 +1,18 @@
+### Java Template
+# Compiled clas file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+
+
+### JetBrains template
+# IntelliJ
+out/
+
+# .idea
+.idea
