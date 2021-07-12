@@ -11,7 +11,9 @@
     <modules>
         <module>spring-data-jpa-examples</module>
         <module>jpa-examples</module>
+        <module>mybatis-examples</module>
     </modules>
+
 
 
 </project>
