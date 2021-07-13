@@ -1,4 +1,4 @@
-package com.wusuiwei.jpa;
+package com.wusuiwei.java8.jpa;
 
 import javax.persistence.*;
 

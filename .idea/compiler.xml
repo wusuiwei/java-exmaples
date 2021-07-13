@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-data-jpa-examples" />
+        <module name="mybatis-examples-helloworld" />
+        <module name="java8-examples" />
         <module name="jpa-examples" />
-        <module name="mybatis-examples" />
       </profile>
     </annotationProcessing>
   </component>

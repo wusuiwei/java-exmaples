@@ -8,7 +8,7 @@
         <!-- 配置使用什么ORM框架作为JPA的实现-->
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
-        <class>com.wusuiwei.jpa.Customer</class>
+        <class>com.wusuiwei.java8.jpa.Customer</class>
         <properties>
             <!-- 配置 datasource -->
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
