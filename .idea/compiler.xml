@@ -9,6 +9,7 @@
         <module name="spring-data-jpa-examples" />
         <module name="mybatis-examples-helloworld" />
         <module name="java8-examples" />
+        <module name="mybatis-examples-helloworld2" />
         <module name="jpa-examples" />
       </profile>
     </annotationProcessing>

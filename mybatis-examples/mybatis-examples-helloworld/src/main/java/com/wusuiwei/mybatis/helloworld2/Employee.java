@@ -1,4 +1,4 @@
-package com.wusuiwei.mybatis.helloworld;
+package com.wusuiwei.mybatis.helloworld2;
 
 import lombok.Data;
 

@@ -13,6 +13,7 @@
 
     <modules>
         <module>mybatis-examples-helloworld</module>
+        <module>mybatis-examples-helloworld2</module>
     </modules>
 
     <properties>

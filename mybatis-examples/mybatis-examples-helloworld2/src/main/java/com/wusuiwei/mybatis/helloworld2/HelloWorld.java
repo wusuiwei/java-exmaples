@@ -1,4 +1,4 @@
-package com.wusuiwei.mybatis.helloworld;
+package com.wusuiwei.mybatis.helloworld2;
 
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -21,7 +21,8 @@ public class HelloWorld {
         InputStream inputStream = Resources.getResourceAsStream(resource);
         SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream);
         SqlSession sqlSession = sqlSessionFactory.openSession();
-        Employee employee = sqlSession.selectOne("com.wusuiwei.mybatis.helloworld.EmployeeMapper.selectOne", 1);
+        EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
+        Employee employee = mapper.selectOne(1);
         System.out.println(employee);
         sqlSession.close();
     }
