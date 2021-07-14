@@ -10,7 +10,7 @@ MyBatis 是一款优秀的持久层框架，它支持自定义 SQL、存储过�
 ## 学习笔记
 
 - [MyBatis快速入门](docs/notes/MyBatis快速入门.md)
-- [MyBatis CURD](docs/notes/MyBatis CRUD.md)
+- [MyBatis进行CURD操作](docs/notes/MyBatis进行CURD操作.md)
 - [mybatis全局配置文件](docs/notes/mybatis全局配置文件.md)
 - [MyBatis映射文件](docs/notes/MyBatis映射文件.md)
 - [MyBatis缓存机制](docs/notes/MyBatis缓存机制.md)
