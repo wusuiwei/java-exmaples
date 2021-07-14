@@ -14,6 +14,7 @@
         <module>mybatis-examples-01-helloworld</module>
         <module>mybatis-examples-02-helloworld2</module>
         <module>mybatis-examples-03-crud</module>
+        <module>mybatis-examples-04-config</module>
     </modules>
 
     <properties>

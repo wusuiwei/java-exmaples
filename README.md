@@ -138,7 +138,7 @@ java基础阶段：（10）
 
 1. 数据库基础：[MySQL基础]( www.bilibili.com/video/av21400736/ )、[MySQL高级](https://www.bilibili.com/video/av21334868/?spm_id_from=333.788.b_636f6d6d656e74.37 )）--(5)
 2. 数据架构相关：[Mycat]( https://www.bilibili.com/video/av80469766/?spm_id_from=333.788.b_636f6d6d656e74.54 )可延后学习
-3. 框架：Mybatis、Mybatisplus、通用Mapper、hibernate、jpa、springdata--(10)
+3. 框架：[Mybatis](mybatis-examples/README.md)、Mybatisplus、通用Mapper、hibernate、jpa、springdata--(10)
 
 
 
