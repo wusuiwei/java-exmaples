@@ -13,5 +13,6 @@
         <module>jpa-examples</module>
         <module>mybatis-examples</module>
         <module>java8-examples</module>
+        <module>jdbc-examples</module>
     </modules>
 </project>

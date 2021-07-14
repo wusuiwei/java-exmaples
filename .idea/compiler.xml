@@ -2,14 +2,17 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-data-jpa-examples" />
-        <module name="mybatis-examples-helloworld" />
+        <module name="jdbc-examples" />
+        <module name="mybatis-examples-02-helloworld2" />
         <module name="java8-examples" />
-        <module name="mybatis-examples-helloworld2" />
+        <module name="mybatis-examples-01-helloworld" />
+        <module name="mybatis-examples-03-crud" />
         <module name="jpa-examples" />
       </profile>
     </annotationProcessing>

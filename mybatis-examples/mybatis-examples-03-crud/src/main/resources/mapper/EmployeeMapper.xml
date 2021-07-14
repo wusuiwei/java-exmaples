@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wusuiwei.mybatis.crud.dao.EmployeeMapper">
+    <!--根据id获取员工信息-->
+    <select id="getEmployeeById" parameterType="int" resultType="com.wusuiwei.mybatis.crud.pojo.Employee">
+        select *
+        from employee
+        where id = #{id}
+    </select>
+
+    <!--获取全部员工信息-->
+    <select id="getEmployeeList" resultType="com.wusuiwei.mybatis.crud.pojo.Employee">
+        select *
+        from employee
+    </select>
+
+    <!--新增员工-->
+    <insert id="addEmployee" parameterType="com.wusuiwei.mybatis.crud.pojo.Employee">
+        insert into employee(id, lastName, email, gender)
+        values (#{id}, #{lastName}, #{email}, #{gender});
+    </insert>
+
+    <!--修改员工-->
+    <update id="updateEmployee" parameterType="com.wusuiwei.mybatis.crud.pojo.Employee">
+        update employee
+        set lastName=#{lastName},
+            email=#{email},
+            gender=#{gender}
+        where id = #{id}
+    </update>
+
+    <!--删除员工-->
+    <delete id="deleteEmployee" parameterType="int">
+        delete
+        from employee
+        where id = #{id}
+    </delete>
+</mapper>
