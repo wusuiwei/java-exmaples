@@ -15,5 +15,6 @@
         <module>java8-examples</module>
         <module>jdbc-examples</module>
         <module>mybatis-examples-04-config</module>
+        <module>mybatisplus-examples</module>
     </modules>
 </project>
