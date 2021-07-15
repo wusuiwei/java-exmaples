@@ -15,6 +15,10 @@
         <module>mybatis-examples-02-helloworld2</module>
         <module>mybatis-examples-03-crud</module>
         <module>mybatis-examples-04-config</module>
+        <module>mybatis-examples-05-mapper</module>
+        <module>mybatis-examples-06-dynamic-sql</module>
+        <module>mybatis-examples-07-spring</module>
+        <module>mybatis-examples-08-springboot</module>
     </modules>
 
     <properties>

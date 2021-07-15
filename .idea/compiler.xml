@@ -8,14 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-data-jpa-examples" />
-        <module name="mybatis-examples-04-config" />
+        <module name="mybatis-examples-06-dynamic-sql" />
         <module name="mybatisplus-examples" />
+        <module name="mybatis-examples-05-mapper" />
         <module name="jdbc-examples" />
-        <module name="mybatis-examples-02-helloworld2" />
-        <module name="java8-examples" />
         <module name="mybatis-examples-01-helloworld" />
         <module name="mybatis-examples-03-crud" />
         <module name="jpa-examples" />
+        <module name="mybatis-examples-08-springboot" />
+        <module name="mybatis-examples-04-config" />
+        <module name="mybatis-examples-02-helloworld2" />
+        <module name="mybatis-examples-07-spring" />
+        <module name="java8-examples" />
       </profile>
     </annotationProcessing>
   </component>
