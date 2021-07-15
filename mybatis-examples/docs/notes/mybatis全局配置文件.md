@@ -1,0 +1,29 @@
+
+# 目录
+- [configuration（配置）](#configuration)
+    - [properties（属性）](#properties)
+    - [settings（设置）](#settings)
+    - [typeAliases（类型别名）](#typeAliases)
+    - [typeHandlers（类型处理器）](#typeHandlers)
+    - [objectFactory（对象工厂）](#objectFactory)
+    - [plugins（插件）](#plugins)
+    - [environments（环境配置）](#environments)
+    - [environment（环境变量）](#environment)
+        - [transactionManager（事务管理器）](#transactionManager)
+        - [dataSource（数据源）](#dataSource)
+    - [databaseIdProvider（数据库厂商标识）](#databaseIdProvider)
+    - [mappers（映射器）](#mappers)
+
+# configuration
+## properties
+## settings
+## typealiases
+## typeHandlers
+## objectFactory
+## plugins
+## environments
+## environment
+### transactionManager
+### dataSource
+## databaseIdProvider
+## mappers
