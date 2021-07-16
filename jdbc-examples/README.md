@@ -12,6 +12,6 @@ JDBC(Java Database Connectivity),是一个独立于特定数据库管理系统�
 - [JDBC连接池](docs/notes/JDBC连接池.md)
 - [DbUtils工具类](docs/notes/DbUtils工具类.md)
 
-## 相关书籍
+## 书籍推荐
 
-## 项目实战问题集锦
+## 实战问题集锦

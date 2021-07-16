@@ -15,5 +15,7 @@
         <module>java8-examples</module>
         <module>jdbc-examples</module>
         <module>mybatisplus-examples</module>
+        <module>java9-16_examples</module>
+        <module>spring-examples</module>
     </modules>
 </project>

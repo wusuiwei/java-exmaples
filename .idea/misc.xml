@@ -14,6 +14,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/mybatis-examples-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jpa-examples/pom.xml" />
       </set>
     </option>
   </component>
