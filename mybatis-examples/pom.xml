@@ -19,6 +19,7 @@
         <module>mybatis-examples-06-dynamic-sql</module>
         <module>mybatis-examples-07-spring</module>
         <module>mybatis-examples-08-springboot</module>
+        <module>mybatis-examples-09-generator</module>
     </modules>
 
     <properties>

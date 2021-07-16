@@ -16,6 +16,7 @@
         <module name="mybatis-examples-03-crud" />
         <module name="jpa-examples" />
         <module name="mybatis-examples-08-springboot" />
+        <module name="mybatis-examples-09-generator" />
         <module name="mybatis-examples-04-config" />
         <module name="mybatis-examples-02-helloworld2" />
         <module name="mybatis-examples-07-spring" />
